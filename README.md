@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshita Pal</h1>
-<h3 align="center">React.Js | Java | C++ | HTML5 | CSS | JavaScript | Graphic Designer</h3>
+<h3 align="center">React.Js | Python | C++ | HTML5 | CSS | JavaScript | Figma | Adobe Illustrator |</h3>
 
-- 🌱 I’m currently learning **DSA, Android Development, Web Development and a lot more!!**
+- 🌱 Currently invested in **Machine Learning, Data Science, Web Development**
 
 - 📫 How to reach me **via LinkedIn**
 
